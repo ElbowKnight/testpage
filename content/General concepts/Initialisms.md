@@ -1,4 +1,5 @@
 ---
+title: Initials
 Status: Work in progress
 Category: Definition
 Department: Not applies

@@ -1,4 +1,5 @@
 ---
+title: Local Committee (LC)
 Status: Work in progress
 Category: Definition
 Department: Not applies

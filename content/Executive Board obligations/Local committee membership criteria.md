@@ -1,4 +1,5 @@
 ---
+title: LC Membership criteria
 Status: Work in progress
 Category: Task
 Department: EB

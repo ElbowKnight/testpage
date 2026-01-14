@@ -1,4 +1,5 @@
 ---
+title: LC Day
 Status: Work in progress
 Category: Task
 Department: MX

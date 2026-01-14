@@ -1,7 +1,4 @@
 ---
-title: Welcome to Quartz 4
+title: AIESEC guide
 ---
-
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
-
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+This website has the target to provide any user with the information. On the left side you should see both the **search bar** and all the pages.

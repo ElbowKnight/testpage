@@ -3,6 +3,7 @@ title: LC Membership criteria
 Status: Work in progress
 Category: Task
 Department: EB
+draft: true
 ---
 Each Local Committee needs to fulfil a series of tasks in order to be recognised as a member of AIESEC. Below these tasks are listed, sorted by responsibility and area.
 ## Local Committee President (LCP) tasks
